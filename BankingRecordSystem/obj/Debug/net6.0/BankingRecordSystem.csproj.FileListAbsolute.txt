@@ -1,0 +1,15 @@
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\bin\Debug\net6.0\BankingRecordSystem.exe
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\bin\Debug\net6.0\BankingRecordSystem.deps.json
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\bin\Debug\net6.0\BankingRecordSystem.runtimeconfig.json
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\bin\Debug\net6.0\BankingRecordSystem.dll
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\bin\Debug\net6.0\BankingRecordSystem.pdb
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.csproj.AssemblyReference.cache
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.AssemblyInfoInputs.cache
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.AssemblyInfo.cs
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.dll
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\refint\BankingRecordSystem.dll
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.pdb
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\BankingRecordSystem.genruntimeconfig.cache
+C:\Users\hrobe\source\repos\BankingRecordSystem\BankingRecordSystem\obj\Debug\net6.0\ref\BankingRecordSystem.dll
